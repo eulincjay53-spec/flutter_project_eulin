@@ -5,6 +5,9 @@ class reels extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    const placeholder = const Placeholder(
+body: Column(),
+    );
+    return placeholder;
   }
 }
